@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Ripple and I mostly work with Minecraft, Roblox and FiveM, aside from that I'm an indie dev!
+Hi there, I'm Ripple and I mostly work with Unreal Engine game developement
 
 
 # 💻 Tech Stack:
